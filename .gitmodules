@@ -1,0 +1,3 @@
+[submodule "DSMRloggerAPI"]
+	path = DSMRloggerAPI
+	url = ssh://git@github.com:mrWheel/DSMRloggerAPI.git
