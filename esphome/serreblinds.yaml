@@ -71,8 +71,8 @@ stepper:
     pin_d: GPIO16
     max_speed: 500 steps/s
     # Take 2s to full speed
-    acceleration: 125 steps/s^2
-    deceleration: 125 steps/s^2
+    acceleration: inf # 500 steps/s^2
+    deceleration: inf # 500 steps/s^2
 
 # TODO roller_blind_control.yaml from https://gist.github.com/boelle/b08c2c78948f243f9a44a551cb0f4775
 
